@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: If you use this software, please cite it as below.
 title: free_oscillation_toolchain
-version: v1.0.0
+version: v1.0.1
 date-released: 2025-10-26
 authors:
   - family-names: Ren
@@ -9,7 +9,7 @@ authors:
     orcid: https://orcid.org/0009-0004-4956-2036  
 repository-code: https://github.com/fomalhaut1100/free_oscillation_toolchain 
 license: Apache-2.0
-doi: 10.5281/zenodo.17444636  
+doi: 10.5281/zenodo.17444715  
 preferred-citation:
   type: article
   title: Time-Varying Stress Fields in Earth's Free Oscillations Triggered by the Mw8.8 Kamchatka Peninsula Earthquake

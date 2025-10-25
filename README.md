@@ -1,4 +1,5 @@
 User Manual 
+[![DOI](https://zenodo.org/badge/1083289004.svg)](https://doi.org/10.5281/zenodo.17444636)
 BY: Tianxiang Ren (rentianxiang1100@163.com)
 Data: 2025-10-25
 
@@ -217,4 +218,5 @@ out = stress_petal_show(testx(:,4), testx(:,5), testx(:,6), Fs, t0, ...
     'FigurePath','petal_single.png', ...
     'InnerFontSize', 12);
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 

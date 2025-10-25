@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: free_oscillation_toolchain
+version: v1.0.0
+date-released: 2025-10-26
+authors:
+  - family-names: Ren
+    given-names: Tianxiang
+    orcid: https://orcid.org/0009-0004-4956-2036  
+repository-code: https://github.com/fomalhaut1100/free_oscillation_toolchain 
+license: Apache-2.0
+doi: 10.5281/zenodo.xxxxxxx  # replace after publishing
+preferred-citation:
+  type: article
+  title: Time-Varying Stress Fields in Earth's Free Oscillations Triggered by the Mw8.8 Kamchatka Peninsula Earthquake
+  authors:
+  Tianxiang Ren, Yaolin Shi, Yongqian Chen, Huai Zhang, Yujun Sun.
+  year: 2025
+  journal: Journal of Geophysical Research: Solid Earth
+  doi: 10.XXXX/XXXXXX  

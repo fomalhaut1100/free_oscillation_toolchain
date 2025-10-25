@@ -1,0 +1,32 @@
+{
+  "title": "free_oscillation_toolchain",
+  "upload_type": "software",
+  "description": "Core MATLAB toolchain for stress-tensor analysis of Earth's free oscillations (sigma_m, tau_max, narrow-band filtering, envelope/Q estimation, stress-petal visualization).",
+  "creators": [
+    {
+      "name": "Ren, Tianxiang",
+      "affiliation": "Chinese Academy of Geological Sciences",
+      "orcid": "0009-0004-4956-2036"
+    }
+  ],
+  "access_right": "open",
+  "license": "Apache-2.0",
+  "keywords": [
+    "free oscillations",
+    "borehole strainmeter",
+    "stress tensor",
+    "spheroidal modes",
+    "toroidal modes",
+    "Q factor",
+    "MATLAB"
+  ],
+  "version": "v1.0.0",
+  "language": "eng",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/fomalhaut1100/free_oscillation_toolchain",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
